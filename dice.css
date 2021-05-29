@@ -1,0 +1,55 @@
+.dice p{
+  color: #331113;
+  margin: auto;
+  font-size: 40px;
+  margin-bottom: 10%;
+}
+.p1{
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+}
+.p2{
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+}
+.content p,.content .heading h1{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+body{
+  background: #cca3a5;
+}
+button{
+  width:15%;
+  height: 20&;
+  border-radius: 30px;
+  background-color: #b6ff63;
+}
+button:hover{
+  background-color: #9acf5f;
+}
+.content{
+  width: 100%;
+  text-align: center;
+  padding: 20%;
+  padding-top: 2%;
+  margin-top: 5%;
+  margin-bottom: 20%;
+  box-sizing: border-box;
+}
+.heading{
+  color:  #331113;
+  margin-bottom: 10%;
+  font-size: 2rem;
+}
+.pic1{
+  width: 30%;
+  float: left;
+  margin-left: 10%;
+}
+.pic2{
+  width: 30%;
+  float: right;
+  margin-right: 10%;
+}
